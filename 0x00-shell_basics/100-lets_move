@@ -1,2 +1,2 @@
 !#/bin/bash
-mv grep -v "[a-z]" 
+mv -v "[a-z]" /tmp/u
