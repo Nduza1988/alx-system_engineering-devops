@@ -1,2 +1,2 @@
 #!/bin/bash
-id vincent staff
+chown -R vincent:staff .
